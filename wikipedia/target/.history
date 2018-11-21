@@ -1,0 +1,13 @@
+compile
+test
+main
+sbt -Dassignment=[assignment] clean test
+compile
+test
+compile
+test
+compile
+test
+compile
+tes
+test

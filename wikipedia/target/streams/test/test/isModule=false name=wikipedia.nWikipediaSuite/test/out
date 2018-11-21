@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mnWikipediaSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: wikipedia.nWikipediaSuite *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.OutOfMemoryError: Metaspace[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
